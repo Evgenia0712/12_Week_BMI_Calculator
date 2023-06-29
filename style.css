@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+
+  background-image: url(./fon.jpg);
+  background-size: cover;
+}
+
+.calk {
+  margin-top: 7vh;
+  margin-left: 30vh;
+}
+
+input {
+  width: 40vh;
+  height: 7vh;
+  border-radius: 30vh;
+  text-align: center;
+  font-size: large;
+}
+
+.button {
+  margin-top: 5vh;
+  width: 20vh;
+  height: 5vh;
+  border-radius: 30vh;
+  background-color: rgb(161, 144, 89);
+  font-size: small;
+}
+
+h1 {
+  font-size: 7vh;
+  margin-left: 25vh;
+}
+
+h3 {
+  font-size: 3vh;
+}
+
+.result {
+  width: 60vh;
+  font-size: 3vh;
+}
